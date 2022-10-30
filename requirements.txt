@@ -1,2 +1,7 @@
 cv2
 sklearn
+tensorflow
+tensorflow_hub
+Pillow
+numpy
+scipy
